@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_header_title_btns",
+  "info": {
+    "displayName": "TitleBtn"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "component",
+      "repeatable": false,
+      "component": "header.title"
+    },
+    "cta": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cta.cta"
+    }
+  }
+}
